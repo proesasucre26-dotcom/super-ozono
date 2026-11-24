@@ -1,0 +1,6 @@
+{
+  "name": "Proesa Distribuidora · Super Ozono",
+  "description": "Catálogo oficial, guías de preparación y asesoría agrícola biotecnológica con Super Ozono Global en Bolivia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
